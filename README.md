@@ -1,2 +1,4 @@
 # casaflora.github.io
-Arquivos de QA e Produção.
+CasaFlora
+
+Arquivos css e js de QA e Produção
