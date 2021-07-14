@@ -1,0 +1,23 @@
+/* Orion CSS | DESKTOP-EB0OVV3 - 14/07/2021 17:28:17 GMT */
+i.fa {
+  font-family: FontAwesome;
+}
+
+#vtexIdContainer.ng-scope {
+  background-color: rgba(255, 255, 255, 0);
+  position: fixed !important;
+  z-index: 99999999999 !important;
+}
+
+#vtexIdContainer.ng-scope > .vtexIdUI.ng-scope.vtexIdUI-show-app {
+  box-shadow: none !important;
+  height: 480px !important;
+  border: 1px solid #ccc !important;
+  top: 40px !important;
+  bottom: 15%;
+  left: 0;
+  margin: auto;
+  right: 0;
+  width: 420px;
+  -webkit-border-radius: 3px;
+}
